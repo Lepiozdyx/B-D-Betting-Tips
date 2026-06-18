@@ -2,16 +2,10 @@ import SwiftUI
 
 struct WebView: View {
     let url: URL
-    var wvm: WebViewManager?
-    
-    init(url: URL){
-        self.url = url
-    }
-    
+    let onAccept: () -> Void
+
     var body: some View {
-        ZStack {
-            Color.clear.ignoresSafeArea()
-            WebViewManager(url: url)
-        }
+        WebViewManager(url: url, onAccept: onAccept)
+            .ignoresSafeArea()
     }
 }

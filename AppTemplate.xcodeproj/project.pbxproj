@@ -8,20 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		CE7115A62E6F181600BFCB5A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE7115A52E6F181600BFCB5A /* LaunchScreen.storyboard */; };
-		FA4142942FE2E8CE001E4157 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4142882FE2E8CE001E4157 /* Assets.xcassets */; };
-		FA4142952FE2E8CE001E4157 /* AppData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142862FE2E8CE001E4157 /* AppData.swift */; };
-		FA4142962FE2E8CE001E4157 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41428B2FE2E8CE001E4157 /* MainTabView.swift */; };
-		FA4142972FE2E8CE001E4157 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41428C2FE2E8CE001E4157 /* Models.swift */; };
-		FA4142982FE2E8CE001E4157 /* TipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142922FE2E8CE001E4157 /* TipsView.swift */; };
-		FA4142992FE2E8CE001E4157 /* AppTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142872FE2E8CE001E4157 /* AppTheme.swift */; };
-		FA41429A2FE2E8CE001E4157 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142902FE2E8CE001E4157 /* RootView.swift */; };
-		FA41429B2FE2E8CE001E4157 /* BD_Betting_TipsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142892FE2E8CE001E4157 /* BD_Betting_TipsApp.swift */; };
-		FA41429C2FE2E8CE001E4157 /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41428F2FE2E8CE001E4157 /* QuizView.swift */; };
-		FA41429D2FE2E8CE001E4157 /* NotificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41428D2FE2E8CE001E4157 /* NotificationsView.swift */; };
-		FA41429E2FE2E8CE001E4157 /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41428A2FE2E8CE001E4157 /* DashboardView.swift */; };
-		FA41429F2FE2E8CE001E4157 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41428E2FE2E8CE001E4157 /* ProfileView.swift */; };
-		FA4142A02FE2E8CE001E4157 /* SimulatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142912FE2E8CE001E4157 /* SimulatorView.swift */; };
-		FA4142A12FE2E8CE001E4157 /* AnalyticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4142852FE2E8CE001E4157 /* AnalyticsView.swift */; };
+		FA41664D2FE470FE00E409E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA4166412FE470FE00E409E7 /* Assets.xcassets */; };
+		FA41664E2FE470FE00E409E7 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4166472FE470FE00E409E7 /* ProfileView.swift */; };
+		FA41664F2FE470FE00E409E7 /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4166432FE470FE00E409E7 /* DashboardView.swift */; };
+		FA4166502FE470FE00E409E7 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4166492FE470FE00E409E7 /* RootView.swift */; };
+		FA4166512FE470FE00E409E7 /* SimulatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41664A2FE470FE00E409E7 /* SimulatorView.swift */; };
+		FA4166522FE470FE00E409E7 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4166452FE470FE00E409E7 /* Models.swift */; };
+		FA4166532FE470FE00E409E7 /* TipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41664B2FE470FE00E409E7 /* TipsView.swift */; };
+		FA4166542FE470FE00E409E7 /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4166482FE470FE00E409E7 /* QuizView.swift */; };
+		FA4166552FE470FE00E409E7 /* BD_Betting_TipsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4166422FE470FE00E409E7 /* BD_Betting_TipsApp.swift */; };
+		FA4166562FE470FE00E409E7 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4166442FE470FE00E409E7 /* MainTabView.swift */; };
+		FA4166572FE470FE00E409E7 /* AppTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4166402FE470FE00E409E7 /* AppTheme.swift */; };
+		FA4166582FE470FE00E409E7 /* AppData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41663F2FE470FE00E409E7 /* AppData.swift */; };
+		FA4166592FE470FE00E409E7 /* AnalyticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41663E2FE470FE00E409E7 /* AnalyticsView.swift */; };
+		FA41665A2FE470FE00E409E7 /* NotificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4166462FE470FE00E409E7 /* NotificationsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,20 +41,20 @@
 		CE7115342E6F0AB000BFCB5A /* AppTemplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppTemplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE7115A42E6F181600BFCB5A /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEF3187B2E72A659004E27D7 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
-		FA4142852FE2E8CE001E4157 /* AnalyticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnalyticsView.swift; sourceTree = "<group>"; };
-		FA4142862FE2E8CE001E4157 /* AppData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppData.swift; sourceTree = "<group>"; };
-		FA4142872FE2E8CE001E4157 /* AppTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTheme.swift; sourceTree = "<group>"; };
-		FA4142882FE2E8CE001E4157 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FA4142892FE2E8CE001E4157 /* BD_Betting_TipsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BD_Betting_TipsApp.swift; sourceTree = "<group>"; };
-		FA41428A2FE2E8CE001E4157 /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
-		FA41428B2FE2E8CE001E4157 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
-		FA41428C2FE2E8CE001E4157 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
-		FA41428D2FE2E8CE001E4157 /* NotificationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsView.swift; sourceTree = "<group>"; };
-		FA41428E2FE2E8CE001E4157 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
-		FA41428F2FE2E8CE001E4157 /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
-		FA4142902FE2E8CE001E4157 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
-		FA4142912FE2E8CE001E4157 /* SimulatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimulatorView.swift; sourceTree = "<group>"; };
-		FA4142922FE2E8CE001E4157 /* TipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsView.swift; sourceTree = "<group>"; };
+		FA41663E2FE470FE00E409E7 /* AnalyticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnalyticsView.swift; sourceTree = "<group>"; };
+		FA41663F2FE470FE00E409E7 /* AppData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppData.swift; sourceTree = "<group>"; };
+		FA4166402FE470FE00E409E7 /* AppTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTheme.swift; sourceTree = "<group>"; };
+		FA4166412FE470FE00E409E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA4166422FE470FE00E409E7 /* BD_Betting_TipsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BD_Betting_TipsApp.swift; sourceTree = "<group>"; };
+		FA4166432FE470FE00E409E7 /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
+		FA4166442FE470FE00E409E7 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		FA4166452FE470FE00E409E7 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		FA4166462FE470FE00E409E7 /* NotificationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsView.swift; sourceTree = "<group>"; };
+		FA4166472FE470FE00E409E7 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		FA4166482FE470FE00E409E7 /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
+		FA4166492FE470FE00E409E7 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		FA41664A2FE470FE00E409E7 /* SimulatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimulatorView.swift; sourceTree = "<group>"; };
+		FA41664B2FE470FE00E409E7 /* TipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,7 +79,7 @@
 		CE71152B2E6F0AB000BFCB5A = {
 			isa = PBXGroup;
 			children = (
-				FA4142932FE2E8CE001E4157 /* B&D Betting Tips */,
+				FA41664C2FE470FE00E409E7 /* B&D Betting Tips */,
 				CE7115A52E6F181600BFCB5A /* LaunchScreen.storyboard */,
 				CE7115362E6F0AB000BFCB5A /* AppTemplate */,
 				CE7115352E6F0AB000BFCB5A /* Products */,
@@ -103,23 +103,23 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		FA4142932FE2E8CE001E4157 /* B&D Betting Tips */ = {
+		FA41664C2FE470FE00E409E7 /* B&D Betting Tips */ = {
 			isa = PBXGroup;
 			children = (
-				FA4142852FE2E8CE001E4157 /* AnalyticsView.swift */,
-				FA4142862FE2E8CE001E4157 /* AppData.swift */,
-				FA4142872FE2E8CE001E4157 /* AppTheme.swift */,
-				FA4142882FE2E8CE001E4157 /* Assets.xcassets */,
-				FA4142892FE2E8CE001E4157 /* BD_Betting_TipsApp.swift */,
-				FA41428A2FE2E8CE001E4157 /* DashboardView.swift */,
-				FA41428B2FE2E8CE001E4157 /* MainTabView.swift */,
-				FA41428C2FE2E8CE001E4157 /* Models.swift */,
-				FA41428D2FE2E8CE001E4157 /* NotificationsView.swift */,
-				FA41428E2FE2E8CE001E4157 /* ProfileView.swift */,
-				FA41428F2FE2E8CE001E4157 /* QuizView.swift */,
-				FA4142902FE2E8CE001E4157 /* RootView.swift */,
-				FA4142912FE2E8CE001E4157 /* SimulatorView.swift */,
-				FA4142922FE2E8CE001E4157 /* TipsView.swift */,
+				FA41663E2FE470FE00E409E7 /* AnalyticsView.swift */,
+				FA41663F2FE470FE00E409E7 /* AppData.swift */,
+				FA4166402FE470FE00E409E7 /* AppTheme.swift */,
+				FA4166412FE470FE00E409E7 /* Assets.xcassets */,
+				FA4166422FE470FE00E409E7 /* BD_Betting_TipsApp.swift */,
+				FA4166432FE470FE00E409E7 /* DashboardView.swift */,
+				FA4166442FE470FE00E409E7 /* MainTabView.swift */,
+				FA4166452FE470FE00E409E7 /* Models.swift */,
+				FA4166462FE470FE00E409E7 /* NotificationsView.swift */,
+				FA4166472FE470FE00E409E7 /* ProfileView.swift */,
+				FA4166482FE470FE00E409E7 /* QuizView.swift */,
+				FA4166492FE470FE00E409E7 /* RootView.swift */,
+				FA41664A2FE470FE00E409E7 /* SimulatorView.swift */,
+				FA41664B2FE470FE00E409E7 /* TipsView.swift */,
 			);
 			path = "B&D Betting Tips";
 			sourceTree = "<group>";
@@ -191,7 +191,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA4142942FE2E8CE001E4157 /* Assets.xcassets in Resources */,
+				FA41664D2FE470FE00E409E7 /* Assets.xcassets in Resources */,
 				CE7115A62E6F181600BFCB5A /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -203,19 +203,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA4142952FE2E8CE001E4157 /* AppData.swift in Sources */,
-				FA4142962FE2E8CE001E4157 /* MainTabView.swift in Sources */,
-				FA4142972FE2E8CE001E4157 /* Models.swift in Sources */,
-				FA4142982FE2E8CE001E4157 /* TipsView.swift in Sources */,
-				FA4142992FE2E8CE001E4157 /* AppTheme.swift in Sources */,
-				FA41429A2FE2E8CE001E4157 /* RootView.swift in Sources */,
-				FA41429B2FE2E8CE001E4157 /* BD_Betting_TipsApp.swift in Sources */,
-				FA41429C2FE2E8CE001E4157 /* QuizView.swift in Sources */,
-				FA41429D2FE2E8CE001E4157 /* NotificationsView.swift in Sources */,
-				FA41429E2FE2E8CE001E4157 /* DashboardView.swift in Sources */,
-				FA41429F2FE2E8CE001E4157 /* ProfileView.swift in Sources */,
-				FA4142A02FE2E8CE001E4157 /* SimulatorView.swift in Sources */,
-				FA4142A12FE2E8CE001E4157 /* AnalyticsView.swift in Sources */,
+				FA41664E2FE470FE00E409E7 /* ProfileView.swift in Sources */,
+				FA41664F2FE470FE00E409E7 /* DashboardView.swift in Sources */,
+				FA4166502FE470FE00E409E7 /* RootView.swift in Sources */,
+				FA4166512FE470FE00E409E7 /* SimulatorView.swift in Sources */,
+				FA4166522FE470FE00E409E7 /* Models.swift in Sources */,
+				FA4166532FE470FE00E409E7 /* TipsView.swift in Sources */,
+				FA4166542FE470FE00E409E7 /* QuizView.swift in Sources */,
+				FA4166552FE470FE00E409E7 /* BD_Betting_TipsApp.swift in Sources */,
+				FA4166562FE470FE00E409E7 /* MainTabView.swift in Sources */,
+				FA4166572FE470FE00E409E7 /* AppTheme.swift in Sources */,
+				FA4166582FE470FE00E409E7 /* AppData.swift in Sources */,
+				FA4166592FE470FE00E409E7 /* AnalyticsView.swift in Sources */,
+				FA41665A2FE470FE00E409E7 /* NotificationsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
