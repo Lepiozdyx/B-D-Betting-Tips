@@ -5,7 +5,9 @@ struct WebView: View {
     let onAccept: () -> Void
 
     var body: some View {
-        WebViewManager(url: url, onAccept: onAccept)
-            .ignoresSafeArea()
+        ZStack {
+            Color.clear.ignoresSafeArea()
+            WebViewManager(url: url, onAccept: onAccept)
+        }
     }
 }

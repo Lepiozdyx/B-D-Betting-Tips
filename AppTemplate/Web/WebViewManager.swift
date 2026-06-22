@@ -59,6 +59,8 @@ struct WebViewManager: UIViewRepresentable {
         webView.allowsLinkPreview = true
         webView.scrollView.showsHorizontalScrollIndicator = false
         webView.scrollView.bounces = true
+        webView.scrollView.contentInsetAdjustmentBehavior = .always
+        webView.scrollView.setContentOffset(CGPoint(x: 0, y: 0), animated: false)
 
         context.coordinator.webView = webView
         return webView
